@@ -1,0 +1,6 @@
+--variable LIB:FakeProSim.py
+--variable SETTLE:1s
+--variable SETTLE_ASYS:1s
+--variable SETTLE_SPO2_ALARM:1s
+--variable SETTLE_TEMP_ALARM:1s
+--variable NIBP_WAIT:1s

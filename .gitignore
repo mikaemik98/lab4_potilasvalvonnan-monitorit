@@ -1,0 +1,8 @@
+output.xml
+log.html
+report.html
+
+output_fake.xml
+log_fake.html
+report_fake.html
+__pycache__/
