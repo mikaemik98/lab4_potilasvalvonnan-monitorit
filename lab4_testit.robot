@@ -8,7 +8,7 @@ Test Teardown     Sulje ProSim
 
 *** Variables ***
 ${LIB}                   CustomSerialLibrary.py
-${COM}                   COM3
+${COM}                   COM10
 ${SETTLE}                30s    # HR-vaste noin 8 s (Lisätiedot-manuaali), varaa reilusti marginaalia
 ${SETTLE_ASYS}           20s    # asystolen hälytysviive noin 7 s
 ${SETTLE_SPO2_ALARM}     60s    # matalan SpO2:n hälytysviive (GE Ohmeda) noin 40 s

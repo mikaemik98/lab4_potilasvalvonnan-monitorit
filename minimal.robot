@@ -1,5 +1,5 @@
 *** Settings ***
-Library           CustomSerialLibrary.py    COM3    115200
+Library           CustomSerialLibrary.py    COM10    115200
 
 *** Test Cases ***
 Interact with Pro Sim 8
